@@ -33,12 +33,9 @@
 </a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IgnaReyes2003&icon=7&color=0)](https://visitcount.itsvg.in)
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316zx6upea6avevthkwctpoolow4)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316zx6upea6avevthkwctpoolow4&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316zx6upea6avevthkwctpoolow4&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316zx6upea6avevthkwctpoolow4&unique={true|1|on|yes})
+
+[![](https://visitcount.itsvg.in/api?id=IgnaReyes2003&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 <!-- Created on 01/04/2023 by Ignacio Reyes -->
