@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ignacio+Reyes;I'm+19+years+old;I+am+from+Salta,+AR;I+study+software+development+at+UPATECO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 # 💫 About Me:
 - 🔭 I’m currently working on ["Bulk Email Panel" 📧](https://github.com/IgnaReyes2003/Bulk-Email-Panel)<br>
 - 👯 I wish to collaborate in **any project**<br>
