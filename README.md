@@ -23,6 +23,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IgnaReyes2003&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+#### Top Repositories
+
+<a href="https://github.com/ignareyes2003/Sistema-Supermark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Sistema-Supermark&theme=buefy" />
+</a>
+<a href="https://github.com/ignareyes2003/Space-Invaders">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Space-Invaders&theme=buefy" />
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=IgnaReyes2003&icon=7&color=0)](https://visitcount.itsvg.in)
 
