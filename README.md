@@ -1,18 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ignacio+Reyes;I'm+19+years+old;I+am+from+Salta,+Argentina;I+study+software+development+at+UPATecO;Thank+you+for+visiting+my+profile!:%29)](https://git.io/typing-svg)
-<details>
-  <summary>🌌 About Me:</summary>
-  
-  - 🔭 I’m currently working on ["Bulk Email Panel" 📧](https://github.com/IgnaReyes2003/Bulk-Email-Panel)<br>
-  - 👯 I wish to collaborate in **any project**<br>
-  - 👨‍💻 All of my projects are available at https://github.com/IgnaReyes2003?tab=repositories<br>
-  - 🌱 I'm currently learning **Java and MySQL**<br>
-  - ❓ Ask me about **Tkinter and Pygame 🎮**<br>
-  - 📫 How to reach me **gamerdream406@gmail.com**<br>
-  - ⚡ Fun fact: I am a passionate chess player
-  
-</details>
+# 🌌 About Me:
+- 🔭 I’m currently working on ["Bulk Email Panel" 📧](https://github.com/IgnaReyes2003/Bulk-Email-Panel)<br>
+- 👯 I wish to collaborate in **any project**<br>
+- 👨‍💻 All of my projects are available at https://github.com/IgnaReyes2003?tab=repositories<br>
+- 🌱 I'm currently learning **Java and MySQL**<br>
+- ❓ Ask me about **Tkinter and Pygame 🎮**<br>
+- 📫 How to reach me **gamerdream406@gmail.com**<br>
+- ⚡ Fun fact: I am a passionate chess player
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100082415497321) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ign4rey3s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-risso-patrón-52a08821a) 
