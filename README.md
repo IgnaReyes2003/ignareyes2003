@@ -26,10 +26,10 @@
 #### Top Repositories
 
 <a href="https://github.com/ignareyes2003/Sistema-Supermark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Sistema-Supermark&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Sistema-Supermark&theme=dark" />
 </a>
 <a href="https://github.com/ignareyes2003/Space-Invaders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Space-Invaders&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Space-Invaders&theme=dark" />
 </a>
 
 ---
