@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
 # 💫 About Me:
 - 🔭 I’m currently working on ["Bulk Email Panel" 📧](https://github.com/IgnaReyes2003/Bulk-Email-Panel)<br>
 - 👯 I wish to collaborate in **any project**<br>
@@ -6,8 +10,6 @@
 - ❓ Ask me about **Tkinter**<br>
 - 📫 How to reach me **gamerdream406@gmail.com**<br>
 - ⚡ Fun fact: I am a passionate chess player
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100082415497321) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ign4rey3s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-risso-patrón-52a08821a) 
