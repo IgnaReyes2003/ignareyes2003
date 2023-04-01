@@ -24,8 +24,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IgnaReyes2003&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-![Snake animation](https://github.com/mctechnology17/IgnaReyes2003/blob/output/github-contribution-grid-snake.svg)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=IgnaReyes2003&icon=7&color=0)](https://visitcount.itsvg.in)
 
