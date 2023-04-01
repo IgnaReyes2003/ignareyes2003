@@ -3,7 +3,8 @@
 - 👯 I wish to collaborate in **any project**<br>
 - 👨‍💻 All of my projects are available at https://github.com/IgnaReyes2003?tab=repositories<br>
 - 🌱 I'm currently learning **Java and MySQL**<br>
-- ❓ Ask me about **Tkinter**<br>- 📫 How to reach me **gamerdream406@gmail.com**<br>
+- ❓ Ask me about **Tkinter**<br>
+- 📫 How to reach me **gamerdream406@gmail.com**<br>
 - ⚡ Fun fact: I am a passionate chess player
 
 ## 🌐 Socials:
