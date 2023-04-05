@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ignacio+Reyes;I%27m+19+years+old;I+am+from+Salta,+Argentina;I+study+software+development+at+UPATecO;Thank+you+for+visiting+my+profile!:%29)](https://git.io/typing-svg)
 # 🩸 About Me:
 - 🔭 I’m currently working on ["Bulk Email Panel" 📧](https://github.com/IgnaReyes2003/Bulk-Email-Panel)<br>
-- 👯 I wish to collaborate in **any project**<br>
+- 💞 I wish to collaborate in **any project**<br>
 - 👨‍💻 All of my projects are available at https://github.com/IgnaReyes2003?tab=repositories<br>
 - 🌱 I'm currently learning **Java and MySQL**<br>
 - ❓ Ask me about **Tkinter and Pygame 🎮**<br>
@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Space-Invaders&theme=dark" />
 </a>
 
-### 🟥 Top Contributed Repo
+### 📌 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ignareyes2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
