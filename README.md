@@ -32,6 +32,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignareyes2003&repo=Space-Invaders&theme=dark" />
 </a>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ignareyes2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=ignareyes2003&icon=5&color=4)](https://visitcount.itsvg.in)
 
